@@ -1,5 +1,7 @@
 ## Leeroy: Jenkins integration with GitHub pull requests
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/31cb950d-c018-4c39-94e4-968ded6a76ef.svg?orgId=451115019187)](https://app.soluble.cloud/repos/details/github.com/michaelneale/leeroy?orgId=451115019187)  
+
 [![Circle CI](https://circleci.com/gh/docker/leeroy.svg?style=svg)](https://circleci.com/gh/docker/leeroy)
 
 Leeroy is a Go application which integrates Jenkins with 
